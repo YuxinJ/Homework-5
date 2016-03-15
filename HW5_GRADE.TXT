@@ -1,0 +1,6 @@
+-12 on part 2c: name is hard coded, no routing for /about.
+
+Part 1: 50 pts
+Part 2: 50 pts
+
+Overall 88/100. Will replace HW4. 
